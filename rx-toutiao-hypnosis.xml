@@ -1,1 +1,1 @@
-<prescription xmlns="http://greenify.github.io/schemas/prescription/v1" type="service" package="com.ss.android.article.news" class="com.ss.android.message.NotifyService" />
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v2" type="broadcast" package="com.ss.android.article.news" package="com.ss.android.article.news" class="com.ss.android.message.MessageReceiver" sender="any" />
